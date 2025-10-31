@@ -2,7 +2,7 @@
 
 Una colección de mini juegos educativos para aprender los fundamentos de la trigonometría de manera interactiva y divertida.
 
-## 🎮 Mini Juegos Incluidos
+## Mini Juegos Incluidos
 
 ### 1. Círculo Unitario
 - **Objetivo**: Aprender los valores de seno, coseno y tangente en el círculo unitario
@@ -24,7 +24,7 @@ Una colección de mini juegos educativos para aprender los fundamentos de la tri
 - **Mecánica**: Preguntas de opción múltiple sobre identidades trigonométricas
 - **Conceptos**: Identidad fundamental, identidades recíprocas, identidades pitagóricas, ángulos dobles
 
-## 🚀 Instalación y Ejecución
+## Instalación y Ejecución
 
 ### Prerrequisitos
 - Node.js (versión 16 o superior)
@@ -48,7 +48,7 @@ pnpm dev
 pnpm build
 ```
 
-## 🎯 Cómo Jugar
+## Cómo Jugar
 
 1. **Iniciar el juego**: Ejecuta `pnpm dev` y abre tu navegador
 2. **Seleccionar juego**: En el menú principal, elige el mini juego que quieres practicar
@@ -56,7 +56,7 @@ pnpm build
 4. **Ver puntuación**: Tu puntuación se muestra en tiempo real
 5. **Repetir**: Puedes jugar múltiples veces para mejorar tu puntuación
 
-## 📚 Conceptos Educativos
+##  Conceptos Educativos
 
 ### Círculo Unitario
 - **Radio**: 1 unidad
@@ -88,14 +88,14 @@ pnpm build
   - 1 + tan²(x) = sec²(x)
   - 1 + cot²(x) = csc²(x)
 
-## 🛠️ Tecnologías Utilizadas
+##  Tecnologías Utilizadas
 
 - **Phaser.js**: Motor de juegos 2D
 - **TypeScript**: Lenguaje de programación
 - **Vite**: Herramienta de construcción
 - **pnpm**: Gestor de paquetes
 
-## 🎨 Características
+##  Características
 
 - **Interfaz intuitiva**: Diseño limpio y fácil de usar
 - **Feedback inmediato**: Respuestas correctas e incorrectas con explicaciones
@@ -103,7 +103,7 @@ pnpm build
 - **Múltiples niveles**: Diferentes tipos de preguntas y dificultades
 - **Visualización**: Gráficos interactivos para mejor comprensión
 
-## 📖 Aprendizaje
+##  Aprendizaje
 
 Estos juegos están diseñados para:
 - **Estudiantes de matemáticas**: Practicar conceptos de trigonometría
@@ -111,7 +111,7 @@ Estos juegos están diseñados para:
 - **Autodidactas**: Aprender trigonometría de manera autónoma
 - **Repaso**: Refrescar conocimientos de trigonometría
 
-## 🤝 Contribuciones
+##  Contribuciones
 
 Las contribuciones son bienvenidas. Para contribuir:
 
@@ -121,7 +121,7 @@ Las contribuciones son bienvenidas. Para contribuir:
 4. Push a la rama (`git push origin feature/AmazingFeature`)
 5. Abre un Pull Request
 
-## 📄 Licencia
+##  Licencia
 
 Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más detalles.
 
@@ -129,4 +129,5 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 - Phaser.js por el excelente motor de juegos
 - La comunidad de desarrolladores de juegos educativos
+
 - Todos los contribuidores que han ayudado a mejorar este proyecto 
