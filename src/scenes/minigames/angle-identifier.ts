@@ -90,14 +90,14 @@ export class AngleIdentifierScene extends Phaser.Scene {
     });
     // Partículas
     const particles = this.add.particles(0x00ff99);
-    particles.createEmitter({
+    /*particles.createEmitter({
       speed: { min: 80, max: 180 },
       angle: { min: 0, max: 360 },
       lifespan: 500,
       quantity: 12,
       scale: { start: 0.5, end: 0 },
       on: false
-    });
+    });*/
     particles.emitParticleAt(line.geom.x2, line.geom.y2, 12);
     // Suma puntos
     this.score++;

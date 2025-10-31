@@ -9,13 +9,14 @@
     "preview": "vite preview"
   },
   "devDependencies": {
-    "@types/node": "^22.15.28",
+    "@types/node": "^22.15.28"
+    
+  },
+  "dependencies": {
+    "phaser": "^3.88.2",
+    "tsc": "^2.0.4",
     "typescript": "~5.8.3",
     "vite": "^6.3.5",
     "vite-tsconfig-paths": "^5.1.4"
-  },
-  "dependencies": {
-    "tsc": "^2.0.4",
-    "phaser": "^3.88.2"
   }
 }

@@ -561,7 +561,7 @@ export class AngleConverterScene extends Phaser.Scene {
     const isVictory = percentage >= 70
     
     // Crear overlay de victoria/derrota
-    const overlay = this.add.rectangle(384, 216, 768, 432, 0x000000, 0.8)
+    this.add.rectangle(384, 216, 768, 432, 0x000000, 0.8)
     
     // Título principal
     const titleText = this.add.text(384, 150, isVictory ? '¡VICTORIA!' : '¡DERROTA!', {
